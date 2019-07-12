@@ -1,9 +1,0 @@
-br/com/web/initialize/DemoData.class
-br/com/web/SpringBootWebApplication.class
-br/com/web/banck/service/impl/BanckService.class
-br/com/web/banck/controller/IBackController.class
-br/com/web/banck/entity/Banck.class
-br/com/web/banck/repository/BanckRepository.class
-br/com/web/foundation/controller/ICRUDController.class
-br/com/web/banck/controller/impl/BackController.class
-br/com/web/banck/service/IBanckService.class

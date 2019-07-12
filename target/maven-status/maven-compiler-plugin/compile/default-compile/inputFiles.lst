@@ -1,9 +1,0 @@
-/home/alci/Desenvolvimento/Projeto/web-banck/src/main/java/br/com/web/banck/repository/BanckRepository.java
-/home/alci/Desenvolvimento/Projeto/web-banck/src/main/java/br/com/web/initialize/DemoData.java
-/home/alci/Desenvolvimento/Projeto/web-banck/src/main/java/br/com/web/foundation/controller/ICRUDController.java
-/home/alci/Desenvolvimento/Projeto/web-banck/src/main/java/br/com/web/SpringBootWebApplication.java
-/home/alci/Desenvolvimento/Projeto/web-banck/src/main/java/br/com/web/banck/controller/IBackController.java
-/home/alci/Desenvolvimento/Projeto/web-banck/src/main/java/br/com/web/banck/entity/Banck.java
-/home/alci/Desenvolvimento/Projeto/web-banck/src/main/java/br/com/web/banck/service/impl/BanckService.java
-/home/alci/Desenvolvimento/Projeto/web-banck/src/main/java/br/com/web/banck/service/IBanckService.java
-/home/alci/Desenvolvimento/Projeto/web-banck/src/main/java/br/com/web/banck/controller/impl/BackController.java
